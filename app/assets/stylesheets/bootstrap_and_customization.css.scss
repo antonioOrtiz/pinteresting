@@ -6,3 +6,20 @@ $navbar-default-link-color:white;
 $jumbotron-bg: $nav-color;
 
 @import "bootstrap";
+
+.radio, .checkbox {
+margin-left: 20px;
+}
+
+.radio label, .checkbox label {
+padding-left: 0px;
+
+}
+
+th {
+padding-right: 120px;
+}
+td{
+	padding-left:0px;
+	padding-right:5px;
+}
