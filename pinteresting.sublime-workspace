@@ -523,7 +523,7 @@
 			"file": "app/views/pins/_form.html.erb",
 			"settings":
 			{
-				"buffer_size": 695,
+				"buffer_size": 693,
 				"line_ending": "Unix"
 			}
 		},
@@ -531,7 +531,7 @@
 			"file": "app/views/pins/index.html.erb",
 			"settings":
 			{
-				"buffer_size": 674,
+				"buffer_size": 656,
 				"line_ending": "Unix"
 			}
 		},
@@ -539,7 +539,7 @@
 			"file": "app/controllers/pins_controller.rb",
 			"settings":
 			{
-				"buffer_size": 1234,
+				"buffer_size": 1241,
 				"line_ending": "Unix"
 			}
 		},
@@ -552,10 +552,18 @@
 			}
 		},
 		{
-			"file": "Gemfile",
+			"file": "app/models/pin.rb",
 			"settings":
 			{
-				"buffer_size": 983,
+				"buffer_size": 240,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/pins/show.html.erb",
+			"settings":
+			{
+				"buffer_size": 181,
 				"line_ending": "Unix"
 			}
 		}
@@ -756,14 +764,15 @@
 	},
 	"file_history":
 	[
+		"/Users/antonioortiz/Desktop/pinteresting/app/views/pins/edit.html.erb",
+		"/Users/antonioortiz/Desktop/pinteresting/app/views/pins/new.html.erb",
+		"/Users/antonioortiz/Desktop/pinteresting/Gemfile",
 		"/Users/antonioortiz/Desktop/pinteresting/db/migrate/20140628121922_add_attachment_image_to_pins.rb",
 		"/Users/antonioortiz/Desktop/pinteresting/app/models/pin.rb",
-		"/Users/antonioortiz/Desktop/pinteresting/Gemfile",
 		"/Users/antonioortiz/Desktop/pinteresting/app/assets/stylesheets/bootstrap_and_customization.css.scss",
 		"/Users/antonioortiz/Desktop/pinteresting/app/assets/stylesheets/application.css",
 		"/Users/antonioortiz/Desktop/pinteresting/app/views/pins/_form.html.erb",
 		"/Users/antonioortiz/Desktop/pinteresting/app/views/pins/index.html.erb",
-		"/Users/antonioortiz/Desktop/pinteresting/app/views/pins/new.html.erb",
 		"/Users/antonioortiz/Desktop/pinteresting/app/controllers/pins_controller.rb",
 		"/Users/antonioortiz/Desktop/pinteresting/app/views/devise/sessions/new.html.erb",
 		"/Users/antonioortiz/Desktop/pinteresting/app/views/devise/passwords/edit.html.erb",
@@ -882,8 +891,7 @@
 		"/Users/antonioortiz/Sites/mirophotography/js/index_app.js",
 		"/Users/antonioortiz/Sites/mirophotography/weddings.html",
 		"/Users/antonioortiz/Sites/mirophotography/christenings.html",
-		"/Users/antonioortiz/Sites/mirophotography/sass/partials/skeleton/_skeleton.scss",
-		"/Users/antonioortiz/Sites/mirophotography/sass/partials/skeleton/_base.scss"
+		"/Users/antonioortiz/Sites/mirophotography/sass/partials/skeleton/_skeleton.scss"
 	],
 	"find":
 	{
@@ -891,7 +899,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 98.0,
 		"where_history":
 		[
 			"",
@@ -916,6 +924,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<%= render 'form' %>\n",
 			"Pin.all",
 			".css",
 			"checkbox",
@@ -1042,8 +1051,7 @@
 			".coreParagraph",
 			"@media only screen and (min-width: 768px) and (max-width: 959px)",
 			"@media only screen and (max-width: 767px)",
-			"row2",
-			"min-width: 40em"
+			"row2"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1104,6 +1112,7 @@
 	"groups":
 	[
 		{
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -1111,15 +1120,15 @@
 					"file": "app/views/pins/_form.html.erb",
 					"settings":
 					{
-						"buffer_size": 695,
+						"buffer_size": 693,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								357,
-								357
+								359,
+								359
 							]
 						],
 						"settings":
@@ -1246,15 +1255,15 @@
 					"file": "app/views/pins/index.html.erb",
 					"settings":
 					{
-						"buffer_size": 674,
+						"buffer_size": 656,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								48,
-								48
+								564,
+								564
 							]
 						],
 						"settings":
@@ -1381,15 +1390,15 @@
 					"file": "app/controllers/pins_controller.rb",
 					"settings":
 					{
-						"buffer_size": 1234,
+						"buffer_size": 1241,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								237,
-								237
+								715,
+								715
 							]
 						],
 						"settings":
@@ -1646,18 +1655,18 @@
 				},
 				{
 					"buffer": 4,
-					"file": "Gemfile",
+					"file": "app/models/pin.rb",
 					"settings":
 					{
-						"buffer_size": 983,
+						"buffer_size": 240,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								382,
-								382
+								240,
+								240
 							]
 						],
 						"settings":
@@ -1776,6 +1785,139 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/pins/show.html.erb",
+					"settings":
+					{
+						"buffer_size": 181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								181,
+								181
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/ERB Autocomplete/erb.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
 				}
 			]
 		}
@@ -1864,6 +2006,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 344.0,
+	"side_bar_width": 212.0,
 	"status_bar_visible": true
 }
