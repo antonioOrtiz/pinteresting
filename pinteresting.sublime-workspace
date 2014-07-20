@@ -520,6 +520,7 @@
 	"buffers":
 	[
 		{
+<<<<<<< HEAD
 			"file": "app/controllers/pins_controller.rb",
 			"settings":
 			{
@@ -556,6 +557,12 @@
 			"settings":
 			{
 				"buffer_size": 556,
+=======
+			"file": "app/views/pins/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 791,
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 				"line_ending": "Unix"
 			}
 		},
@@ -651,7 +658,59 @@
 			"file": "app/views/pins/_form.html.erb",
 			"settings":
 			{
+<<<<<<< HEAD
 				"buffer_size": 693,
+=======
+				"buffer_size": 234,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/pins_controller (original).rb",
+			"settings":
+			{
+				"buffer_size": 1233,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/pages_controller.rb",
+			"settings":
+			{
+				"buffer_size": 86,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/application_controller.rb",
+			"settings":
+			{
+				"buffer_size": 204,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1701,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.ru",
+			"settings":
+			{
+				"buffer_size": 154,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/environments/production.rb",
+			"settings":
+			{
+				"buffer_size": 3706,
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 				"line_ending": "Unix"
 			}
 		}
@@ -852,6 +911,7 @@
 	},
 	"file_history":
 	[
+<<<<<<< HEAD
 		"/Users/antonioortiz/Desktop/pinteresting/app/models/pin.rb",
 		"/Users/antonioortiz/Desktop/pinteresting/app/assets/stylesheets/application.css",
 		"/Users/antonioortiz/Desktop/pinteresting/app/assets/javascripts/application.js",
@@ -863,12 +923,20 @@
 		"/Users/antonioortiz/Desktop/pinteresting/app/controllers/pins_controller.rb",
 		"/Users/antonioortiz/Desktop/pinteresting/app/views/pins/index.html.erb",
 		"/Users/antonioortiz/Desktop/pinteresting/app/controllers/application_controller.rb",
+=======
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 		"/Users/antonioortiz/Desktop/pinteresting/Gemfile",
 		"/Users/antonioortiz/Desktop/pinteresting/app/views/pins/_form.html.erb",
 		"/Users/antonioortiz/Desktop/pinteresting/app/views/pins/edit.html.erb",
 		"/Users/antonioortiz/Desktop/pinteresting/app/views/pins/new.html.erb",
 		"/Users/antonioortiz/Desktop/pinteresting/db/migrate/20140628121922_add_attachment_image_to_pins.rb",
 		"/Users/antonioortiz/Desktop/pinteresting/app/assets/stylesheets/bootstrap_and_customization.css.scss",
+<<<<<<< HEAD
+=======
+		"/Users/antonioortiz/Desktop/pinteresting/app/assets/stylesheets/application.css",
+		"/Users/antonioortiz/Desktop/pinteresting/app/views/pins/index.html.erb",
+		"/Users/antonioortiz/Desktop/pinteresting/app/controllers/pins_controller.rb",
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 		"/Users/antonioortiz/Desktop/pinteresting/app/views/devise/sessions/new.html.erb",
 		"/Users/antonioortiz/Desktop/pinteresting/app/views/devise/passwords/edit.html.erb",
 		"/Users/antonioortiz/Desktop/pinteresting/app/views/devise/registrations/edit.html.erb",
@@ -1200,23 +1268,39 @@
 	"groups":
 	[
 		{
+<<<<<<< HEAD
 			"selected": 5,
+=======
+			"selected": 3,
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 			"sheets":
 			[
 				{
 					"buffer": 0,
+<<<<<<< HEAD
 					"file": "app/controllers/pins_controller.rb",
 					"settings":
 					{
 						"buffer_size": 1061,
+=======
+					"file": "app/views/pins/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 791,
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+<<<<<<< HEAD
 								174,
 								174
+=======
+								791,
+								791
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 							]
 						],
 						"settings":
@@ -1340,6 +1424,7 @@
 				},
 				{
 					"buffer": 1,
+<<<<<<< HEAD
 					"file": "app/controllers/pins_controller (original).rb",
 					"settings":
 					{
@@ -1433,14 +1518,25 @@
 					"settings":
 					{
 						"buffer_size": 556,
+=======
+					"file": "app/controllers/pins_controller.rb",
+					"settings":
+					{
+						"buffer_size": 1241,
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+<<<<<<< HEAD
 								556,
 								556
+=======
+								715,
+								715
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 							]
 						],
 						"settings":
@@ -1552,7 +1648,7 @@
 							"remote_loading": false,
 							"sublime_auto_complete": true,
 							"synced": false,
-							"syntax": "Packages/ERB Autocomplete/erb.tmLanguage",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -1563,19 +1659,32 @@
 					"type": "text"
 				},
 				{
+<<<<<<< HEAD
 					"buffer": 5,
 					"file": "app/views/layouts/_header.html.erb",
 					"settings":
 					{
 						"buffer_size": 1535,
+=======
+					"buffer": 2,
+					"file": "app/models/user.rb",
+					"settings":
+					{
+						"buffer_size": 295,
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+<<<<<<< HEAD
 								1277,
 								1277
+=======
+								295,
+								295
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 							]
 						],
 						"settings":
@@ -1687,9 +1796,13 @@
 							"remote_loading": false,
 							"sublime_auto_complete": true,
 							"synced": false,
+<<<<<<< HEAD
 							"syntax": "Packages/ERB Autocomplete/erb.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
+=======
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1698,19 +1811,32 @@
 					"type": "text"
 				},
 				{
+<<<<<<< HEAD
 					"buffer": 6,
 					"file": "app/assets/javascripts/pins.js.coffee",
 					"settings":
 					{
 						"buffer_size": 310,
+=======
+					"buffer": 3,
+					"file": "app/models/pin.rb",
+					"settings":
+					{
+						"buffer_size": 240,
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+<<<<<<< HEAD
 								310,
 								310
+=======
+								240,
+								0
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 							]
 						],
 						"settings":
@@ -1831,19 +1957,32 @@
 					"type": "text"
 				},
 				{
+<<<<<<< HEAD
 					"buffer": 7,
 					"file": "app/views/pins/show.html.erb",
 					"settings":
 					{
 						"buffer_size": 526,
+=======
+					"buffer": 4,
+					"file": "app/views/pins/show.html.erb",
+					"settings":
+					{
+						"buffer_size": 234,
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+<<<<<<< HEAD
 								264,
 								264
+=======
+								234,
+								234
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 							]
 						],
 						"settings":
@@ -1955,7 +2094,54 @@
 							"remote_loading": false,
 							"sublime_auto_complete": true,
 							"synced": false,
+<<<<<<< HEAD
 							"syntax": "Packages/ERB Autocomplete/erb.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+=======
+							"syntax": "Packages/ERB Autocomplete/erb.tmLanguage"
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+<<<<<<< HEAD
+					"buffer": 8,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 1067,
+=======
+					"buffer": 5,
+					"file": "app/controllers/pins_controller (original).rb",
+					"settings":
+					{
+						"buffer_size": 1233,
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+<<<<<<< HEAD
+								257,
+								257
+=======
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -1966,19 +2152,78 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
-					"file": "Gemfile",
+					"buffer": 6,
+					"file": "app/controllers/pages_controller.rb",
 					"settings":
 					{
-						"buffer_size": 1067,
+						"buffer_size": 86,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								257,
-								257
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/controllers/application_controller.rb",
+					"settings":
+					{
+						"buffer_size": 204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 1701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 							]
 						],
 						"settings":
@@ -2090,6 +2335,7 @@
 							"remote_loading": false,
 							"sublime_auto_complete": true,
 							"synced": false,
+<<<<<<< HEAD
 							"syntax": "Packages/Ruby/Ruby.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -2745,9 +2991,178 @@
 							"syntax": "Packages/ERB Autocomplete/erb.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
+=======
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "config.ru",
+					"settings":
+					{
+						"buffer_size": 154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "config/environments/production.rb",
+					"settings":
+					{
+						"buffer_size": 3706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3701,
+								3701
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 892.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -2839,6 +3254,10 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
+<<<<<<< HEAD
 	"side_bar_width": 299.0,
+=======
+	"side_bar_width": 309.0,
+>>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 	"status_bar_visible": true
 }
