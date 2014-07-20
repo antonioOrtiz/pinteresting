@@ -5,14 +5,14 @@ class PinsController < ApplicationController
 
 
   def index
-    @pins = Pin.all
+    @pins = Pin.all.order("created_at DESC")
   end
 
   def show
   end
 
   def new
-      @pin = Pin.new #-> you can assign a user later
+    @pin = Pin.new #-> you can assign a user later
   end
 
   def edit
