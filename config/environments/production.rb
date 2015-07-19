@@ -1,4 +1,4 @@
-sRails.application.configure do
+Omrails::Application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
 
   # Code is not reloaded between requests.
@@ -83,8 +83,8 @@ sRails.application.configure do
 
   # Required for heroku
   # Note to set this to your actual host
-  # config.action_mailer.default_url_options = { host: 'localhost:3000' }
-  config.action_mailer.default_url_options = { host: 'ants-omr-pinteresting.herokuapp' }
+  config.action_mailer.default_url_options = { host: 'localhost:3000' }
+  # config.action_mailer.default_url_options = { host: 'ants-omr-pinteresting.herokuapp' }
 
   config.paperclip_defaults = {
   :storage => :s3,
