@@ -16,3 +16,9 @@
 /tmp
 .DS_Store
 /public/system/*
+
+
+
+#sublime text files
+pinteresting.sublime-project
+pinteresting.sublime-workspace
