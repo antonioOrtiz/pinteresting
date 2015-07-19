@@ -31,10 +31,10 @@ end
 
 
 
-# Mail.deliver do
-#   to '17antonio.ortiz@gmail.com'
-#   from '17antonio.ortiz@gmail.com'
-#   subject 'testing send mail'
-#   body 'Sending email with Ruby through SendGrid!'
-# end
-# enviro
+Mail.deliver do
+  to '17antonio.ortiz@gmail.com'
+  from '17antonio.ortiz@gmail.com'
+  subject 'testing send mail'
+  body 'Sending email with Ruby through SendGrid!'
+end
+enviro
