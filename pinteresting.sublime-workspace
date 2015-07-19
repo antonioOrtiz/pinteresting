@@ -4,88 +4,384 @@
 		"selected_items":
 		[
 			[
-				"edit",
-				"edit_pin_path"
+				"todo",
+				"todoapp	(main.scss)"
 			],
 			[
-				"link",
-				"link_to"
+				"tod",
+				"todoListItems"
 			],
 			[
-				"sty",
-				"styles"
+				"false",
+				"false"
 			],
 			[
-				"all",
-				"all_students"
+				"new",
+				"newTodoKeyPressHandler"
 			],
 			[
-				"la",
-				"last_name"
+				"function",
+				"new Function()	Function"
 			],
 			[
-				"first",
-				"first_name"
+				"if",
+				"if()"
 			],
 			[
-				"con",
-				"content"
+				"ad",
+				"addEventListener〔function〕"
 			],
 			[
-				"ra",
-				"rails"
+				"functio",
+				"function(){\n	$0\n})();	(function(){\n	$0\n})();"
 			],
 			[
-				"class",
-				"class=\"btn"
+				"bower",
+				"bower_components/normalize	(terminal.glue)"
 			],
 			[
-				"item",
-				"itemAnswers"
+				"bac",
+				"background"
 			],
 			[
-				"co",
-				"correctAnswer"
+				"tag",
+				"tag_index	(2015-06-28-my-proto-post.md)"
 			],
 			[
-				"cho",
-				"choices"
+				"click",
+				"clickbanner	(index.html)"
 			],
 			[
-				"answer",
-				"answerForward"
+				"conta",
+				"containerL	(index.html)"
 			],
 			[
-				"question",
-				"questionForward"
+				"bod",
+				"bodyWrapper	(_myStyles.scss)"
 			],
 			[
-				"radio",
-				"radioText"
+				"row",
+				"row20	(_myStyles.scss)"
 			],
 			[
-				"inser",
-				"insertBefore	.insertBefore()"
+				"over",
+				"overflow"
 			],
 			[
-				"choice",
-				"choiceText"
+				"mir",
+				"mirosite"
 			],
 			[
-				"a",
-				"appendChild  (function)"
+				"miro",
+				"miro_page"
 			],
 			[
-				"parent",
-				"parentNode  (variable)"
+				"pos",
+				"position"
 			],
 			[
-				"pre",
-				"prepend	.prepend"
+				"cres",
+				"crestLogo"
+			],
+			[
+				"logo",
+				"logoContainer"
+			],
+			[
+				"padd",
+				"padding:0"
+			],
+			[
+				"post",
+				"position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"work",
+				"workImages"
+			],
+			[
+				"image",
+				"imageContainer"
+			],
+			[
+				"slide",
+				"slideDown	.slideDown()"
+			],
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"imo",
+				"important"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"on",
+				"on〔function〕"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"cli",
+				"click	.click()"
+			],
+			[
+				"rela",
+				"relative"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"z",
+				"z-a	z-index: auto;"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"background-",
+				"background-image:   (property)"
+			],
+			[
+				"fon",
+				"font-size:   (property)"
+			],
+			[
+				"max-",
+				"max-height:   (property)"
+			],
+			[
+				"margin",
+				"margin-top:   (property)"
+			],
+			[
+				"be",
+				"beginAnimate"
+			],
+			[
+				"set",
+				"setTimeout  (function)"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"int",
+				"intervaleHandle"
+			],
+			[
+				"my",
+				"myNewH1"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"xm",
+				"xmasPicsArray"
+			],
+			[
+				"d",
+				"display  (variable)"
+			],
+			[
+				"tour",
+				"tourSelection"
+			],
+			[
+				"get",
+				"getElementById  (function)"
+			],
+			[
+				"func",
+				"onclick  (function)"
+			],
+			[
+				"onc",
+				"onclick  (function)"
+			],
+			[
+				"br",
+				"brochures"
+			],
+			[
+				"ind",
+				"index	.index()"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"rust",
+				"rustyApp"
+			],
+			[
+				"com",
+				"components/js"
+			],
+			[
+				"alert",
+				"alertstars"
+			],
+			[
+				"ex",
+				"exports"
+			],
+			[
+				"cont",
+				"contactform"
+			],
+			[
+				"font",
+				"fontawesome"
+			],
+			[
+				"imag",
+				"imagemin"
+			],
+			[
+				"gul",
+				"gulpt	gulp.task('name',funciton)"
+			],
+			[
+				"gu",
+				"gulpt	gulp.task('name',funciton)"
+			],
+			[
+				"out",
+				"outputDir"
+			],
+			[
+				"ou",
+				"outputDir"
+			],
+			[
+				"sas",
+				"sassSources"
+			],
+			[
+				"js",
+				"jsSources"
+			],
+			[
+				"builds",
+				"builds/development"
+			],
+			[
+				"g",
+				"gulps	gulp.src('folder')"
+			],
+			[
+				"gulp",
+				"gulpd	gulp.dest('folder')"
+			],
+			[
+				"ru",
+				"rustyApp"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"route",
+				"routeProvider"
+			],
+			[
+				"pr",
+				"production"
+			],
+			[
+				"max",
+				"max-height:   (property)"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"z-",
+				"z-index:   (property)"
+			],
+			[
+				"op",
+				"opacity	opacity()"
+			],
+			[
+				"backgro",
+				"background-color:   (property)"
+			],
+			[
+				"use",
+				"usemin"
+			],
+			[
+				"min",
+				"min-height"
 			],
 			[
 				"mar",
-				"margin:0"
+				"margin-top"
+			],
+			[
+				"height",
+				"height:auto"
+			],
+			[
+				"footer",
+				"footerPush"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"padding-",
+				"padding-bottom:   (property)"
+			],
+			[
+				"im",
+				"important"
 			],
 			[
 				"visi",
@@ -104,20 +400,12 @@
 				"overflow-x:   (property)"
 			],
 			[
-				"over",
-				"overflow-y"
-			],
-			[
 				"marg",
 				"margin"
 			],
 			[
 				"list-st",
 				"list-style-type:   (property)"
-			],
-			[
-				"max",
-				"max-height"
 			],
 			[
 				"list",
@@ -132,10 +420,6 @@
 				"margin-top:   (property)"
 			],
 			[
-				"font",
-				"font-family:   (property)"
-			],
-			[
 				"top",
 				"topNav"
 			],
@@ -148,36 +432,16 @@
 				"footerBackground"
 			],
 			[
-				"margin",
-				"margin-top:   (property)"
-			],
-			[
-				"ab",
-				"absolute  (value)"
-			],
-			[
-				"bo",
-				"body"
+				"con",
+				"container"
 			],
 			[
 				"j",
 				"jPanelMenu"
 			],
 			[
-				"po",
-				"pointer"
-			],
-			[
-				"for",
-				"for	for (…) {…} (Improved Native For-Loop)"
-			],
-			[
 				"re",
 				"ready	document.ready - $(function()"
-			],
-			[
-				"background-",
-				"background-repeat:   (property)"
 			],
 			[
 				"dis",
@@ -198,10 +462,6 @@
 			[
 				"text",
 				"text-align:   (property)"
-			],
-			[
-				"padd",
-				"padding-top"
 			],
 			[
 				"myWork",
@@ -226,10 +486,6 @@
 			[
 				"eng",
 				"engagementContent"
-			],
-			[
-				"row",
-				"row2"
 			],
 			[
 				"galler",
@@ -258,476 +514,101 @@
 			[
 				"face",
 				"facebook"
-			],
-			[
-				"bol",
-				"bold"
-			],
-			[
-				"bind",
-				"bind	jQuery"
-			],
-			[
-				"c",
-				"click	click"
-			],
-			[
-				"function",
-				"function"
-			],
-			[
-				"rea",
-				"ready	$(document).ready"
-			],
-			[
-				"wedding",
-				"wedding_page"
-			],
-			[
-				"scrollUp",
-				"scrollUpRefresh"
-			],
-			[
-				"git",
-				"git-completion"
-			],
-			[
-				"poi",
-				"position"
-			],
-			[
-				"z-",
-				"z-index"
-			],
-			[
-				"max-e",
-				"max-width:   (property)"
-			],
-			[
-				"max-",
-				"max-width:   (property)"
-			],
-			[
-				"bac",
-				"background"
-			],
-			[
-				"back",
-				"background-image:   (property)"
-			],
-			[
-				"ske",
-				"stylesheets/skeleton/base"
-			],
-			[
-				"partials",
-				"partials/skeleton"
-			],
-			[
-				"wit",
-				"width"
-			],
-			[
-				"padding-",
-				"padding-right:   (property)"
-			],
-			[
-				"non",
-				"nonRetinaSpriteImages"
-			],
-			[
-				"in",
-				"include	@include"
-			],
-			[
-				"Font",
-				"font-family:   (property)"
-			],
-			[
-				"paddi",
-				"padding-top"
-			],
-			[
-				"padding",
-				"padding-left"
-			],
-			[
-				"rel",
-				"relative"
-			],
-			[
-				"toggle",
-				"toggleHolder"
-			],
-			[
-				"n",
-				"none"
-			],
-			[
-				"pad",
-				"padding"
-			],
-			[
-				"auto",
-				"auto"
-			],
-			[
-				"inline",
-				"inline-block  (value)"
-			],
-			[
-				"des",
-				"deskTopNavLink"
-			],
-			[
-				"type",
-				"type=  (attribute)"
-			],
-			[
-				"script",
-				"script"
-			],
-			[
-				"pa",
-				"padding"
-			],
-			[
-				"out",
-				"outline"
-			],
-			[
-				"inl",
-				"inline-block"
-			],
-			[
-				"wid",
-				"width"
-			],
-			[
-				"mari",
-				"margin-bottom"
-			],
-			[
-				"background-c",
-				"background-color:   (property)"
-			],
-			[
-				"background",
-				"background:   (property)"
-			],
-			[
-				"margi",
-				"margin-bottom"
-			],
-			[
-				"hei",
-				"height"
-			],
-			[
-				"he",
-				"height"
-			],
-			[
-				"color",
-				"background-color"
-			],
-			[
-				"border-",
-				"border-left"
-			],
-			[
-				"bore",
-				"border-bottom"
-			],
-			[
-				"abs",
-				"absolute"
-			],
-			[
-				"pst",
-				"position"
-			],
-			[
-				"frame",
-				"frameContainer"
-			],
-			[
-				"alert",
-				"alert()	Window"
-			],
-			[
-				"my",
-				"myString	Default"
-			],
-			[
-				"do",
-				"dominion	Default"
-			],
-			[
-				"temp",
-				"tempFunction	Default"
-			],
-			[
-				"fun",
-				"function	Default"
-			],
-			[
-				"nu",
-				"number	Default"
-			],
-			[
-				"le",
-				"length"
-			],
-			[
-				"lo",
-				"log()	Math"
-			],
-			[
-				"aler",
-				"alert()	Window"
-			],
-			[
-				"image",
-				"imageArray"
-			],
-			[
-				"change",
-				"changeImage"
-			],
-			[
-				"cange",
-				"changeImage"
-			],
-			[
-				"ch",
-				"changeImage"
-			],
-			[
-				"on",
-				"onclick"
-			],
-			[
-				"sig",
-				"sign_up_username"
-			],
-			[
-				"get",
-				"getElementById"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-<<<<<<< HEAD
-			"file": "app/controllers/pins_controller.rb",
-			"settings":
-			{
-				"buffer_size": 1061,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/controllers/pins_controller (original).rb",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/assets/javascripts/application.js",
-			"settings":
-			{
-				"buffer_size": 722,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/assets/stylesheets/application.css",
-			"settings":
-			{
-				"buffer_size": 702,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/pins/index.html.erb",
-			"settings":
-			{
-				"buffer_size": 556,
-=======
-			"file": "app/views/pins/index.html.erb",
-			"settings":
-			{
-				"buffer_size": 791,
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/layouts/_header.html.erb",
-			"settings":
-			{
-				"buffer_size": 1535,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/assets/javascripts/pins.js.coffee",
-			"settings":
-			{
-				"buffer_size": 310,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/pins/show.html.erb",
-			"settings":
-			{
-				"buffer_size": 526,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Gemfile",
-			"settings":
-			{
-				"buffer_size": 1067,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/assets/stylesheets/pins.css.scss",
-			"settings":
-			{
-				"buffer_size": 262,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/models/pin.rb",
-			"settings":
-			{
-				"buffer_size": 242,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "config/environments/production.rb",
-			"settings":
-			{
-				"buffer_size": 3706,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "config.ru",
-			"settings":
-			{
-				"buffer_size": 154,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "config/routes.rb",
-			"settings":
-			{
-				"buffer_size": 1701,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/controllers/pages_controller.rb",
-			"settings":
-			{
-				"buffer_size": 86,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/models/user.rb",
-			"settings":
-			{
-				"buffer_size": 624,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/pins/_form.html.erb",
-			"settings":
-			{
-<<<<<<< HEAD
-				"buffer_size": 693,
-=======
-				"buffer_size": 234,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/controllers/pins_controller (original).rb",
-			"settings":
-			{
-				"buffer_size": 1233,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/controllers/pages_controller.rb",
-			"settings":
-			{
-				"buffer_size": 86,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/controllers/application_controller.rb",
-			"settings":
-			{
-				"buffer_size": 204,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "config/routes.rb",
-			"settings":
-			{
-				"buffer_size": 1701,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "config.ru",
-			"settings":
-			{
-				"buffer_size": 154,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "config/environments/production.rb",
-			"settings":
-			{
-				"buffer_size": 3706,
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/User/firefox-preview.sublime-build",
 	"command_palette":
 	{
-		"height": 375.0,
+		"height": 327.0,
 		"selected_items":
 		[
+			[
+				"gi",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
 			[
 				"pac",
 				"Package Control: Install Package"
 			],
 			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"gul",
+				"Gulp"
+			],
+			[
 				"read",
 				"ReadmePlease"
+			],
+			[
+				"copy",
+				"File: Copy as Tag script"
+			],
+			[
+				"fil",
+				"File: Copy Path From Project"
+			],
+			[
+				"glu",
+				"Glue - Launch"
+			],
+			[
+				"rad",
+				"ReadmePlease"
+			],
+			[
+				"set syntax: j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"r",
+				"ReadmePlease"
+			],
+			[
+				"",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"file",
+				"File: Copy Path From Project"
+			],
+			[
+				"f",
+				"File: Copy as Tag script"
+			],
+			[
+				"bower",
+				"Bower: Install"
+			],
+			[
+				"hip",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"hi",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"file copy",
+				"File: Copy as Tag script"
+			],
+			[
+				"Install",
+				"Bower: Install"
 			],
 			[
 				"htm",
@@ -802,10 +683,6 @@
 				"ReadmePlease"
 			],
 			[
-				"pack",
-				"Package Control: Remove Package"
-			],
-			[
 				"confli",
 				"FindKeyConflicts: All Conflicts"
 			],
@@ -866,10 +743,6 @@
 				"HTML: Encode Special Characters"
 			],
 			[
-				"",
-				"About"
-			],
-			[
 				"syt",
 				"Set Syntax: CSS"
 			],
@@ -894,7 +767,7 @@
 				"Package Control: Upgrade Package"
 			]
 		],
-		"width": 579.0
+		"width": 543.0
 	},
 	"console":
 	{
@@ -911,153 +784,153 @@
 	},
 	"file_history":
 	[
-<<<<<<< HEAD
-		"/Users/antonioortiz/Desktop/pinteresting/app/models/pin.rb",
-		"/Users/antonioortiz/Desktop/pinteresting/app/assets/stylesheets/application.css",
-		"/Users/antonioortiz/Desktop/pinteresting/app/assets/javascripts/application.js",
-		"/Users/antonioortiz/Desktop/pinteresting/config/environments/production.rb",
-		"/Users/antonioortiz/Desktop/pinteresting/config.ru",
-		"/Users/antonioortiz/Desktop/pinteresting/config/routes.rb",
-		"/Users/antonioortiz/Desktop/pinteresting/app/controllers/pages_controller.rb",
-		"/Users/antonioortiz/Desktop/pinteresting/app/models/user.rb",
-		"/Users/antonioortiz/Desktop/pinteresting/app/controllers/pins_controller.rb",
-		"/Users/antonioortiz/Desktop/pinteresting/app/views/pins/index.html.erb",
-		"/Users/antonioortiz/Desktop/pinteresting/app/controllers/application_controller.rb",
-=======
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
-		"/Users/antonioortiz/Desktop/pinteresting/Gemfile",
-		"/Users/antonioortiz/Desktop/pinteresting/app/views/pins/_form.html.erb",
-		"/Users/antonioortiz/Desktop/pinteresting/app/views/pins/edit.html.erb",
-		"/Users/antonioortiz/Desktop/pinteresting/app/views/pins/new.html.erb",
-		"/Users/antonioortiz/Desktop/pinteresting/db/migrate/20140628121922_add_attachment_image_to_pins.rb",
-		"/Users/antonioortiz/Desktop/pinteresting/app/assets/stylesheets/bootstrap_and_customization.css.scss",
-<<<<<<< HEAD
-=======
-		"/Users/antonioortiz/Desktop/pinteresting/app/assets/stylesheets/application.css",
-		"/Users/antonioortiz/Desktop/pinteresting/app/views/pins/index.html.erb",
-		"/Users/antonioortiz/Desktop/pinteresting/app/controllers/pins_controller.rb",
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
-		"/Users/antonioortiz/Desktop/pinteresting/app/views/devise/sessions/new.html.erb",
-		"/Users/antonioortiz/Desktop/pinteresting/app/views/devise/passwords/edit.html.erb",
-		"/Users/antonioortiz/Desktop/pinteresting/app/views/devise/registrations/edit.html.erb",
-		"/Users/antonioortiz/Desktop/pinteresting/app/views/devise/passwords/new.html.erb",
-		"/Users/antonioortiz/Desktop/pinteresting/app/views/devise/registrations/new.html.erb",
-		"/Users/antonioortiz/Desktop/pinteresting/app/views/layouts/application.html.erb",
-		"/Users/antonioortiz/Desktop/pinteresting/app/views/layouts/_header.html.erb",
-		"/Users/antonioortiz/Desktop/pinteresting/app/views/pages/home.html.erb",
-		"/Users/antonioortiz/Library/Application Support/Sublime Text 2/Packages/RubyFormat/README.md",
-		"/Users/antonioortiz/Desktop/rubyPractice/helloworld.rb",
-		"/Users/antonioortiz/Desktop/rubyPractice/studentApp/student.rb",
-		"/Users/antonioortiz/Desktop/pinteresting/config/application.rb",
-		"/Users/antonioortiz/Desktop/pinteresting/.gitignore",
-		"/Users/antonioortiz/Desktop/pinteresting/config/environments/development.rb",
-		"/Users/antonioortiz/Desktop/pinteresting/app/views/pages/about.html.erb",
+		"/Users/antonioortiz/Sites/spa/gulpfile.js",
+		"/Users/antonioortiz/Sites/spa/app/scss/main.scss",
+		"/Users/antonioortiz/Sites/spa/app/public/js/main.js",
+		"/Users/antonioortiz/Sites/spa/app/public/js/app.js",
+		"/Users/antonioortiz/Sites/spa/app/public/css/style.css",
+		"/Users/antonioortiz/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/antonioortiz/Library/Application Support/Sublime Text 2/Packages/User/Glue.sublime-settings",
+		"/Users/antonioortiz/Sites/spa/app/js/app.js",
+		"/Users/antonioortiz/Library/Application Support/Sublime Text 2/Packages/SideBarGit/readme.md",
+		"/Users/antonioortiz/.bash_profile",
+		"/Users/antonioortiz/Library/Application Support/Sublime Text 2/Packages/User/SublimeServer.sublime-settings",
+		"/Users/antonioortiz/Sites/collage.comTest",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/serve/tags/javascript/index.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_layouts/tag_index.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_includes/cookie_js.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_drafts/2015-06-28-the-window-is-a-Object!.md",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/404.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_includes/comments.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/_generalStyles.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/about.md",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/serve/my-proto-post/index.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/serve/cookie_control/cookie_example/index.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/serve/test/index.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/serve/work/index.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_includes/sidebar.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_posts/2015-06-28-the-window-is-a-Object!.md",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/serve/mirosite/index.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/serve/cookie_control/index.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/serve/assets/stylesheets/style.css",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/serve/assets/scss/lanyon.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/serve/about/index.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/serve/404/index.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/serve/index.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/stylesheets/style.css",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/lanyon.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_layouts/post.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/_config.build.yml",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/index.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/_config.yml",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_posts/2015-06-28-my-proto-post.md",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/work.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_plugins/_tag_gen.rb",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/style.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_posts/2014-03-03-welcome-to-jekyll.md",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_posts/2014-03-02-introducing-poole.md",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/javascript/somejavascript.js",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/javascript/ya_jquery.fancybox.ready.function.js",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_includes/head.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/cookie_control/index.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/cookie_control/cookie_example/index.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_layouts/default.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/javascript/cookie_example.js",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/javascript/jquery.fancybox.ready.function.js",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/javascript/myScript/myApp.js",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/_myWork.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/_header.scss",
+		"/Users/antonioortiz/Library/Application Support/Sublime Text 2/Packages/Theme - Soda/README.md",
 		"/Users/antonioortiz/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Users/antonioortiz/Desktop/pinteresting/README.md",
-		"/Users/antonioortiz/Dropbox/dynamicQuiz/index.html",
-		"/Users/avonproducts/Documents/ant_wip/htmlArchives/SMO/quarterly_activation_materials_q2.html",
-		"/Users/antonioortiz/Dropbox/dynamicQuiz/js/script.js",
-		"/Users/avonproducts/Documents/ant_wip/htmlArchives/SMO/quarterly_activation_materials.html",
-		"/Users/avonproducts/Documents/ant_wip/htmlArchives/leadership_campaign_processing_schedules_es.html",
-		"/Users/avonproducts/Documents/ant_wip/htmlArchives/leadership_campaign_processing_schedules.html",
-		"/Users/avonproducts/Documents/ant_wip/htmlArchives/selling_calendars_SMO.html",
-		"/Users/avonproducts/Documents/ant_wip/htmlArchives/career_career_archives.html",
-		"/Users/avonproducts/Documents/ant_wip/htmlArchives/SMO/conference_calls.html",
-		"/Users/avonproducts/Documents/ant_wip/htmlArchives/career_career_archives_es.html",
-		"/Users/avonproducts/Documents/ant_wip/htmlArchives/SMO/sellingCalendars_SMO/selling_calendars_SMO.html",
-		"/Users/antonioortiz/Dropbox/developer_folder/Ex_Files_JS_Events/Excercise Files/01_03/working folder/events/index.html",
-		"/Users/antonioortiz/Dropbox/developer_folder/Ex_Files_JS_Events/Excercise Files/01_05/working folder/events/index.html",
-		"/Users/antonioortiz/Dropbox/developer_folder/Ex_Files_JS_Events/Excercise Files/01_04/working folder/events/index.html",
-		"/Users/antonioortiz/Dropbox/Ex_Files_JS_Events/Excercise Files/01_03/working folder/events/index.html",
-		"/Users/antonioortiz/Dropbox/developer_folder/jsPractice/jsPractice/stylesheets/layout.css",
-		"/Users/antonioortiz/Sites/_aortizNew_/app/_layouts/default.html",
-		"/Users/antonioortiz/Sites/_aortizNew_/sftp-config.json",
-		"/Users/antonioortiz/Sites/_aortizNew_/aortizrefresh/sftp-config.json",
-		"/Users/antonioortiz/Desktop/default.html",
-		"/Users/antonioortiz/Dropbox/developer_folder/jsPractice/jsPractice/index.html",
-		"/Users/antonioortiz/Sites/_aortizNew_/app/sass/partials/_layout.scss",
-		"/Users/antonioortiz/Sites/_aortizNew_/app/sass/main.scss",
-		"/Users/antonioortiz/Sites/_aortizNew_/app/sass/partials/_typography.scss",
-		"/Users/antonioortiz/Sites/_aortizNew_/app/sass/partials/test.css",
-		"/Users/antonioortiz/Dropbox/Sublime Text 2/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-		"/Users/antonioortiz/Sites/_aortizNew_/.tmp/css/main.css",
-		"/Users/antonioortiz/Sites/_aortizRefresh_/app/_layouts/default.html",
-		"/Users/antonioortiz/Sites/_aortizRefresh_/app/_layouts/alt_nav_refills/default.html",
-		"/Users/antonioortiz/Sites/_aortizRefresh_/bower.json",
-		"/Users/avonproducts/Desktop/bb_en.html",
-		"/Users/avonproducts/Documents/ant_wip/htmlArchives/businessBuzz_es.html",
-		"/Users/avonproducts/Documents/ant_wip/htmlArchives/businessBuzz_en.html",
-		"/Users/avonproducts/Documents/ant_wip/dynamicQuiz/index.html",
-		"/Users/antonioortiz/Sites/dynamicQuiz/js/script.js",
-		"/Users/antonioortiz/Sites/dynamicQuiz/js/questions.json",
-		"/Users/antonioortiz/Sites/_aortizRefresh_/app/sass/partials/_typography.scss",
-		"/Users/antonioortiz/Sites/mirophotography/stylesheets/style.css",
-		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/skeleton_childtheme/header.php",
-		"/Users/antonioortiz/Sites/mirophotography/index.php",
-		"/Users/antonioortiz/Sites/_test/_aortizRefresh_ /gulpfile.js",
-		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/skeleton_childtheme/footer.php",
-		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/skeleton_childtheme/style.css",
-		"/Users/antonioortiz/Sites/mirophotography/sass/vendor/_responsiveNav.scss",
-		"/Users/antonioortiz/Sites/mirophotography/sftp-config.json",
-		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/skeleton_childtheme/index.php",
-		"/Users/antonioortiz/Sites/mirophotography/livereload.js",
-		"/Users/antonioortiz/Sites/newaortiz/index.html",
-		"/Users/antonioortiz/Sites/newaortiz/Rakefile.rb",
-		"/Users/antonioortiz/Sites/newaortiz/Gruntfile.js",
-		"/Users/antonioortiz/Sites/mirophotography/my_work.php",
-		"/Users/antonioortiz/Sites/mirophotography/sass/partials/skeleton/_layout.scss",
-		"/Users/antonioortiz/Sites/mirophotography/stylesheets/style_local.css",
-		"/Users/antonioortiz/Sites/mirophotography/blog/wp-config-sample.php",
-		"/Users/antonioortiz/Sites/mirophotography/blog/wp-config.php",
-		"/Users/antonioortiz/Sites/mirophotography/stylesheets/main.css",
+		"/Users/antonioortiz/Library/Application Support/Sublime Text 2/Packages/Theme - Soda SolarizedDark/README.md",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/mirosite/index.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/_myStyles.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/vendor/fancyBox/jquery.fancybox.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/cookie_control/cookie_control/index.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/gulpfile_old.js",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/gulpfile.js",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/vendor/skeleton/skeleton.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/iframes/miro_photography.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_layouts/page.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/work_pages/miro_site.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_layouts/alt_default.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/javascript/bootstrap.js",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_layouts/hero.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_posts/2014-03-28-my-proto-post.md",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_includes/hero.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/_site.scss",
+		"/Users/antonioortiz/Sites/sandbox.dev/mirophotography/oldFiles/preMinified_html/index.php",
+		"/Users/antonioortiz/Sites/sandbox.dev/mirophotography/index.php",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_includes/carousel.html",
+		"/Users/antonioortiz/Dropbox/developer_folder/dynamicQuiz/js/script.js",
+		"/Users/antonioortiz/Library/Application Support/Sublime Text 2/Packages/Seti_UX/README.md",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/vendor/scrollUp/labs.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/syntax.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/vendor/_carousel.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/vendor/scrollUp/themes/tab.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/vendor/fancyBox/_jquery.fancybox.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/javascript/fastclick.js",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/.bowerrc",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/site/index.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/javascript/responsive-elements.js",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/vendor/jBox/_jBox.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/poole.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/_typography.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/vendor/jBox/themes/_TooltipDark.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/work.md",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_layouts/page_2.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_layouts/work.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_includes/work.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/site/assets/javascript/all.min.684d34b5.js",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/site/CNAME",
 		"/Users/antonioortiz/Sites/mirophotography/sass/style.scss",
-		"/Users/antonioortiz/Sites/mirophotography/preMinified_html/index.php",
-		"/Users/antonioortiz/.Trash/index (original).php",
-		"/Users/antonioortiz/Sites/mirophotography/config.rb",
-		"/Users/antonioortiz/Sites/mirophotography/blog/prod_wp-config/wp-config.php",
-		"/Users/antonioortiz/Sites/mirophotography/js/my_work.min.js",
-		"/Users/antonioortiz/Sites/mirophotography/sftp-config-alt.json",
-		"/Users/antonioortiz/Sites/mirophotography/blog/wp-settings.php",
-		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/smpl_skeleton/index.php",
-		"/Users/antonioortiz/Sites/mirophotography/404.html",
-		"/Users/antonioortiz/Sites/mirophotography/.htaccess",
-		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mirophotography/style.css",
-		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mirophotography/oldStuff/index.php",
-		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mirophotography/index.php",
-		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mirophotography/header.php",
-		"/Users/antonioortiz/Sites/mirophotography/js/combined.js",
-		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mytheme/style.css",
-		"/Users/antonioortiz/Sites/mirophotography/oldFiles/weddings.html",
-		"/Users/antonioortiz/Sites/mirophotography/codekit-config.json",
-		"/Users/antonioortiz/Sites/mirophotography/mirophotography.sublime-workspace",
-		"/Users/antonioortiz/Sites/mirophotography/my_work.html",
-		"/Users/antonioortiz/Sites/mirophotography/wp_info.txt",
-		"/Users/antonioortiz/Sites/mirophotography/oldFiles/engagements.html",
-		"/Users/antonioortiz/Sites/mirophotography/oldFiles/christenings.html",
-		"/Users/antonioortiz/Sites/mirophotography/images/index.html",
-		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mytheme/sidebar.php",
-		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mytheme/index.php",
-		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mytheme/header.php",
-		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mytheme/functions.php",
-		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mytheme/footer.php",
-		"/Users/antonioortiz/Sites/mirophotography/blog/blog.php",
-		"/Users/antonioortiz/Sites/mirophotography/404/404_PROD.html",
-		"/Users/antonioortiz/Sites/mirophotography/404/404.html",
-		"/Users/antonioortiz/Sites/mirophotography/blog/blog.html",
-		"/Users/antonioortiz/Sites/mirophotography/images/photogLogoMedium@2x.png",
-		"/Users/antonioortiz/Sites/mirophotography/js/weddings_app.js",
-		"/Users/antonioortiz/Sites/mirophotography/engagements.html",
-		"/Users/antonioortiz/Sites/mirophotography/js/index_app.js"
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/serve/assets/scss/poole.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_oldFiles/__work.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_oldFiles/_work.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/vendor/uikit/uikit.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/javascript/jquery.js",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/serve/jekyll/2014/03/03/welcome-to-jekyll/index.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/uikit/uikit.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_layouts/work_container.html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/uikit/core/base.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/javascript/jqueryFunctionToggle.js",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/headhesive/_headhesive.scss",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/javascript/headhesive.js",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/CNAME",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/javascript/jquery.easing.js",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/javascript/smoothStateFunc.js",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/javascript/jquery.stickyhead.js",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/serve/assets/javascript/jqueryEasing.js",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/_layouts/default (original).html",
+		"/Users/antonioortiz/Sites/antonioortiz.github.io/src/assets/scss/_carousel.scss",
+		"/Users/antonioortiz/Sites/antonioOrtiz.github.io/antonioOrtiz.github.sublime-project",
+		"/Users/antonioortiz/Sites/ant_blog/_config.yml",
+		"/Users/antonioortiz/Sites/ant_blog/src/_includes/sidebar.html",
+		"/Users/antonioortiz/Sites/ant_blog/serve/about/index.html",
+		"/Users/antonioortiz/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/README.md",
+		"/Users/antonioortiz/Sites/ant_blog/src/assets/scss/poole.scss",
+		"/Users/antonioortiz/Sites/ant_blog/src/assets/scss/lanyon.scss",
+		"/Users/antonioortiz/Sites/ant_blog/src/assets/scss/headhesive/_headhesive.scss",
+		"/Users/antonioortiz/Sites/ant_blog/src/assets/scss/style.scss"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 72.0
 	},
 	"find_in_files":
 	{
 		"height": 0.0,
 		"where_history":
 		[
+			"",
+			"<open files>",
+			"<open files>,*.txt,/Users/antonioortiz/Sites/antonioortiz.github.io",
+			"<open files>",
+			"",
+			"<open files>,/Users/antonioortiz/Sites/rustyWebSite.dev_/builds/development/bower_components",
+			"<open files>",
+			"",
+			"<open files>",
 			"",
 			"<open files",
 			"",
@@ -1080,141 +953,162 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"</td>",
-			"<td>",
-			"<%= render 'form' %>\n",
-			"Pin.all",
-			".css",
-			"checkbox",
-			"'",
-			"currentQuestion",
-			"currentAnswer",
-			"currentQuestion",
-			"poster",
-			"Q3_Rally_Presentation.ppt",
-			"<span class=\"note\">NEW</span>",
-			"appendChild",
-			"parentNode",
-			"appendChild",
-			"true",
-			"svgmin:dist",
-			"svgmin:dist\" (svgmin)",
+			"\"",
+			"var ",
+			"event",
+			"<h1>hey</h1>\n",
+			"mirocelic_icon.png",
+			"mirocelic_site",
+			"mirocelic_site.jpg",
+			"mirocelic_site",
+			"mirocelic_logo",
+			"mirocelic_site.jpg",
+			"            background-position: 0px -5px;\n",
+			"mirocelic_site",
+			"celic",
+			"5px",
+			"mirocelic_site.png",
+			"first",
+			"left",
+			"_",
+			"class=\"pic_of_me\"",
+			"pic-of-me",
+			"pic_of_me",
+			"#8f5536",
+			"$primary-color;\n",
+			"color: $primary-color;\n",
+			"    color: $primary-color;\n",
+			"#8f5536",
+			"2",
+			"Example content ",
+			"post.date",
+			"post",
+			"{.",
+			"popupVideoPlayed",
+			"j",
+			" j",
+			"j",
+			".title",
 			"banner",
-			"aortiz",
-			"header",
-			"@include linear-gradient(to top, #fff, #e7dcc6);",
-			"\n/* Table of Content\n==================================================\n  #Site Styles\n  #Page Styles\n  #Media Queries\n  #Font-Face */\n\n$footer-height: 200px;\n\n\n\n/* #Universal Site Wide Styles\n================================================== */\n    html, body, div.jPanelMenu-panel {\n      height: 100%;\n      margin:0;\n      @include linear-gradient(to top, #fff, #e7dcc6);\n  }\n  div.jPanelMenu-panel {\n      margin-bottom: $footer-height;\n  }\n  /* #Header\n================================================== */\n  .header {\n      margin-top: 75px;\n  }\n\n\n/* #Footer\n================================================== */\n  .containerFooter {\n      min-height: 100%;\n      margin-bottom: -200px;\n  }\n  .containerFooter:after {\n      content:\"\";\n      display:block;\n  }\n  .containerFooter:after, .footerBackground {\n      border-top: 2px solid #81642f;\n      background-color: #442617;\n      height:$footer-height;\n      p {\n          text-align: center;\n          margin-top: 40px;\n          color: #FFC762;\n          text-shadow: 0px 1px 1px #523F1E;\n      }\n  }\n\n\n  /* #Menu/nav\n================================================== */\n\n  .menu_trigger {\n     visibility: hidden\n  }\n  #menu {\n        width:800px;\n        height:50px;\n        z-index: 50000;\n        display:block;\n        margin:0;\n        padding:0;\n        position:absolute;\n        top: 5px;\n    }\n      ul.nav {\n          display: block;\n          list-style-type: none;\n          position:relative;\n          width:300px;\n          padding:0;\n          li {\n              padding:0;\n              margin:0;\n          }\n          li a {\n              display: block;\n              float: left;\n              max-height: 30px;\n              border: none;\n              margin:0;\n              padding: 0;\n              width:100px;\n              border-bottom: none;\n              box-shadow: none !important;\n          }\n          & a:hover {\n              color:#fff;\n          }\n      }\n\n/* #Page Styles\n================================================== */\n\n/* #Media Queries\n================================================== */\n\n  /* Smaller than standard 960 (devices and browsers) */\n  @media only screen and (max-width: 959px) {\n}\n  /* Tablet Portrait size to standard 960 (devices and browsers) */\n  @media only screen and (min-width: 768px) and (max-width: 959px) {}\n\n  /* All Mobile Sizes (devices and browser) */\n  @media only screen and (max-width: 767px) {\n    \n    #jPanelMenu-menu {\n        background-color: #222222;\n        box-shadow: inset -20px 0px 15px #000000;\n        z-index: -1\n    }\n\n  /* #Menu/nav\n================================================== */\n     .menu_trigger {\n        visibility: visible\n    }\n     #menu{display:none}\n\n    .nav {\n     position:relative;\n     clear:both\n\n    \n\n     ul {\n         display: block;\n         list-style-type: none;\n         width: 500px;\n         padding:0;\n         height:100%;\n\n     }\n     li {\n     \n         padding:0;\n         margin:0;\n         border:0;\n         position:relative\n\n     }\n\n           li:last-child {\n          content:'';\n          top:104px;\n          width:100%;\n          border-bottom: 1px solid rgba(255, 255, 255, .1);\n          \n          position:absolute;\n          z-index: 1000\n     }\n\n     li a {\n        \n         display: block;\n         float:left;\n         max-height: 30px;\n         width: 100%;\n         margin:0;\n         padding: 20px 0 30px 15px;\n         text-align: left;\n         text-decoration: none;\n         font-size: 1.5em;\n         color: #aaa;\n        box-shadow: inset -2px 0px 15px rgba(0, 0, 0, 0.2);\n         text-shadow: 0 -1px rgba(0, 0, 0, 0.5);\n         border-bottom: 1px solid rgba(0, 0, 0, .2);\n         border-top: 1px solid rgba(255, 255, 255, .1);\n         // outline: solid black 1px;\n         box-sizing: border-box;\n     }\n  \n     & a:hover {\n         color:#fff;\n         text-shadow: 0 -1px rgba(0, 0, 0, 0.5);\n     }\n\n\n       \n }\n\n  }\n\n  /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */\n  @media only screen and (min-width: 480px) and (max-width: 767px) {}\n\n  /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */\n  @media only screen and (max-width: 479px) {}\n",
-			"jPanelMenu",
-			"javascript:void(0)",
-			"data",
-			"bar",
-			"r",
-			"key",
-			"'../../2AC78D",
-			"webfonts/",
-			"border-radius",
-			"#toggle, .nonRetinaSpriteImages-hamburger {\n",
-			" #nav {\n        width:100%;\n        margin:0;\n        background-image:url(\"../../../../images/debut_dark.png\");\n        border-bottom:1px solid rgba(0, 0, 0, 0.2);\n        border-top:1px solid rgba(255, 255, 255, 0.1)\n    }",
-			" ul.topNav",
-			"#nav .topNav .active a",
-			"../",
+			"j",
+			"foo",
+			"j",
+			".miroLink",
+			"miroLink",
+			"mirooLink",
+			"$",
+			"#",
+			"j",
+			"bfap_btn",
+			"bfap_call_to_action",
+			"images",
+			"./",
+			"fancyBox/",
+			"../images",
+			"row",
+			"REPSuite/web/static/js",
+			"/REPSuite/web/static/js/",
+			"data-type=\"iframe\" rel=\"gallery1\" ",
+			"// Optimizes the images that exists\ngulp.task('images', function () {\n  return gulp.src('src/assets/images/**')\n    .pipe($.changed('site/assets/images'))\n    .pipe($.imagemin({\n      // Lossless conversion to progressive JPGs\n      progressive: true,\n      // Interlace GIFs for progressive rendering\n      interlaced: true\n    }))\n    .pipe(gulp.dest('site/assets/images'))\n.pipe($.size({title: 'images'}));\n});\n\n// Copy over fonts to the 'site' directory\ngulp.task('fonts', function () {\n  return gulp.src('src/assets/fonts/**')\n    .pipe(gulp.dest('site/assets/fonts'))\n    .pipe($.size({ title: 'fonts' }));\n});\n\n// Copy xml and txt files to the 'site' directory\ngulp.task('copy', function () {\n  return gulp.src(['serve/*.txt', 'serve/*.xml','src/CNAME'])\n    .pipe(gulp.dest('site'))\n    .pipe($.size({ title: 'xml, txt & CNAME' }))\n});\n\n// Optimizes all the CSS, HTML and concats the JS etc\ngulp.task('html', ['styles'], function () {\n  var assets = $.useref.assets({searchPath: 'serve'});\n\n  return gulp.src('serve/**/*.html')\n    .pipe(assets)\n    // Concatenate JavaScript files and preserve important comments\n    .pipe($.if('*.js', $.uglify({preserveComments: 'some'})))\n\n    // Minify CSS\n    .pipe($.if('*.css', $.minifyCss()))\n\n    // Start cache busting the files\n    pipe($.revAll({\n      quiet: true,\n      ignore: ['.eot', '.svg', '.ttf', '.woff', '.woff2']\n    }))\n    .pipe(assets.restore())\n    // Conctenate your files based on what you specified in _layout/header.html\n    .pipe($.useref())\n    // Replace the asset names with their cache busted names\n    .pipe($.revReplace())\n    // Minify HTML\n    .pipe($.if('*.html', $.htmlmin({\n      removeComments: true,\n      removeCommentsFromCDATA: true,\n      removeCDATASectionsFromCDATA: true,\n      collapseWhitespace: true,\n      collapseBooleanAttributes: true,\n      removeAttributeQuotes: true,\n      removeRedundantAttributes: true\n    })))\n",
+			"// Optimizes the images that exists\ngulp.task('images', function () {\n  return gulp.src('src/assets/images/**')\n    .pipe($.changed('site/assets/images'))\n    .pipe($.imagemin({\n      // Lossless conversion to progressive JPGs\n      progressive: true,\n      // Interlace GIFs for progressive rendering\n      interlaced: true\n    }))\n    .pipe(gulp.dest('site/assets/images'))\n.pipe($.size({title: 'images'}));\n});\n\n// Copy over fonts to the 'site' directory\ngulp.task('fonts', function () {\n  return gulp.src('src/assets/fonts/**')\n    .pipe(gulp.dest('site/assets/fonts'))\n    .pipe($.size({ title: 'fonts' }));\n});\n\n// Copy xml and txt files to the 'site' directory\ngulp.task('copy', function () {\n  return gulp.src(['serve/*.txt', 'serve/*.xml','src/CNAME'])\n    .pipe(gulp.dest('site'))\n    .pipe($.size({ title: 'xml, txt & CNAME' }))\n});\n\n// Optimizes all the CSS, HTML and concats the JS etc\ngulp.task('html', ['styles'], function () {\n  var assets = $.useref.assets({searchPath: 'serve'});\n\n  return gulp.src('serve/**/*.html')\n    .pipe(assets)\n    // Concatenate JavaScript files and preserve important comments\n    .pipe($.if('*.js', $.uglify({preserveComments: 'some'})))\n\n    // Minify CSS\n    .pipe($.if('*.css', $.minifyCss()))\n\n    // Start cache busting the files\n    pipe($.revAll({\n      quiet: true,\n      ignore: ['.eot', '.svg', '.ttf', '.woff', '.woff2']\n    }))\n    .pipe(assets.restore())\n    // Conctenate your files based on what you specified in _layout/header.html\n    .pipe($.useref())\n    // Replace the asset names with their cache busted names\n    .pipe($.revReplace())\n    // Minify HTML\n    .pipe($.if('*.html', $.htmlmin({\n      removeComments: true,\n      removeCommentsFromCDATA: true,\n      removeCDATASectionsFromCDATA: true,\n      collapseWhitespace: true,\n      collapseBooleanAttributes: true,\n      removeAttributeQuotes: true,\n      removeRedundantAttributes: true\n    })))\n\n    // Send the output to the correct folder\n    .pipe(gulp.dest('site'))\n    .pipe($.size({title: 'optimizations'}));\n});\n\n\n// Task to upload your site to your personal GH Pages repo\ngulp.task('deploy', function () {\n  // Deploys your optimized site, you can change the settings in the html task if you want to\n  return gulp.src('./serve/**/*')\n    .pipe($.ghPages({\n      // Currently only personal GitHub Pages are supported so it will upload to the master\n      // branch and automatically overwrite anything that is in the directory\n      branch: 'master'\n      }));\n});\n",
+			"containerL",
+			"bodyWrapper",
+			"fancybox",
+			"ab2b8377",
+			"a57a3829",
+			".499d6f95",
+			"containerL",
+			"content",
+			".containerL",
+			".container",
+			"#container",
+			"#containerL",
+			"containerL",
+			"#sidebar",
+			".sidebar-toggle",
+			"fixed",
+			"masthead",
+			"task",
+			";",
+			"u-max-full-width",
+			"fancybox",
+			".container .mix:before {\n",
+			"  content: '';\n  display: inline-block;\n  /* padding-top: 60%; */ }\n",
+			".container .mix",
+			"/assets",
+			"2px",
+			"raleway",
+			".miro_page",
+			"containerL",
+			"L",
+			"containerL",
+			"containerL",
+			"containerL",
+			"logoContainer",
+			"crestLogo",
+			"768",
+			"414",
+			"max",
+			"height=\"175\"",
 			"logo",
-			"..",
-			"logo",
-			"img.scale-with-grid {\n    max-width:100%;\n    height:auto\nlogo",
-			"img.scale-with-grid {\n    max-width:100%;\n    height:auto\n.logo",
-			"img.scale-with-grid {\n    max-width:100%;\n    height:auto\n}",
-			".scale",
-			"scale",
-			"nonRetinaSpriteImages-photogLogoSmall",
-			"../",
-			"#nav a {\n",
-			"674em",
-			"675em",
-			"670em",
-			"#nav a ",
-			"myWorkParagraph",
-			"/../../../../",
-			"<script>",
-			"<script>\n	document.write('<script src=\"http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1\"></' + 'script>')\n<script>\n	document.write('<script src=\"http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1\"></' + 'script>')\n<script>",
-			"<script>\n	document.write('<script src=\"http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1\"></' + 'script>')\n<script>\n	document.write('<script src=\"http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1\"></' + 'script>')\n	</script>",
-			"<script>\n	document.write('<script src=\"http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1\"></' + 'script>')\n	</script>",
-			"style.css",
-			"span.missionStatement {\n.add-bottom\n",
-			"span.missionStatement {\ntextarea\n",
-			"span.missionStatement {\n",
-			"span.missionStatement {\nfont-family: 'BrandonText-Light',Helvetica,sans-serif;\nfont-size: 1.3em;\nfont-weight: bold;\nmargin: 10px auto;\ntext-align: center;\nbackground: rgba(191,191,191,0.2);\ndisplay: block;\npadding-top: 5px;\npadding-bottom: 10px;\npadding-left: 20px;\npadding-right: 20px;\ncolor: #fff;\nwidth: 75%;\n-webkit-border-radius: 3px;\n-moz-border-radius: 3px;\n-ms-border-radius: 3px;\n-o-border-radius: 3px;\nborder-radius: 3px;\n}",
-			"span.missionStatement\n",
-			"span.missionStatement\n\n",
-			".missionStatement\n\n",
-			"missionStatement\n\n",
-			"frmContact\n\n\n",
-			"#frmContact\n\n\n",
-			".#frmContact\n\n\n",
-			".success\n\n",
-			"a.specificLink\n",
-			"#nav.opened\n",
-			"nav li.active a",
-			".button-wrap\n",
-			"h3, h4, h5, h6",
-			".button.glow\n",
-			".slides, .flex-control-nav, .flex-direction-nav\n",
-			"flexslider",
-			".slides, .flex-control-nav, .flex-direction-nav\n",
-			"@media only screen and (max-width: 767px) {",
-			"@media only screen and (min-width: 768px) and (max-width: 959px)",
-			".clearfix",
-			".flex-control-thumbs .flex-active\n",
-			".button-flat-action.disabled\n",
-			".button-highlight\n",
-			".button-royal\n",
-			".button-flat.disabled\n",
-			"disabled",
-			"missionStatement",
-			"p.coreParagraph",
-			"  p.coreParagraph",
-			"fieldset",
-			"input[type=\"reset\"]",
-			"button",
-			"p a",
-			".container .offset-by-fifteen\n",
-			"#myWorkChristenings.scale-with-grid\n",
-			".main\n",
-			".row\n",
-			".flex-pauseplay span\n",
-			"input[type=\"reset\"], input[type=\"button\"]",
-			"input[type=\"checkbox\"]\n",
-			".container .two.columns\n",
-			".column.alpha, .columns.alpha\n",
-			"#myWorkChristenings.scale-with-grid\n",
-			"#myWorkEngagements\n",
-			".square\n",
-			"a.myWorkSpecificLink\n",
-			".column.omega, .columns.omega\n",
-			".column.alpha, .columns.alpha\n",
-			"#toggle #scrollUp, #toggle .nonRetinaSpriteImages-top, .nonRetinaSpriteImages-hamburger #scrollUp, .nonRetinaSpriteImages-hamburger .nonRetinaSpriteImages-top",
-			"#nav.opened\n",
-			"@media screen and (min-width: 40em) {",
-			"@media screen and (min-width: 0px) and (max-width: 767px)",
-			"nav li.active a",
-			".flex-disabled\n",
-			"* html .slides\n\n",
-			"html[xmlns] .slides\n\n",
-			".flex-pauseplay span\n\n",
-			".loading .flex-viewport\n\n",
-			"* html .slides\n",
-			"html[xmlns] .slides\n",
-			".flex-pauseplay span",
-			".flex-control-thumbs .flex-active",
-			".coreParagraph",
-			"@media only screen and (min-width: 768px) and (max-width: 959px)"
+			"class=\"logo\"",
+			"crest_1224",
+			"1",
+			"zip",
+			"../images",
+			"google",
+			"{{ site.baseurl }}",
+			"RWD",
+			"500x500",
+			"{{ site.baseurl }}",
+			"class=\"u-max-full-width \"",
+			"imgRWD",
+			"class=\"\" ",
+			"imgRWD",
+			"class=\"\" ",
+			"/image1_large.jpg",
+			"#Container",
+			"overflow:",
+			"-->",
+			"antialiased",
+			"webfonts",
+			"center",
+			"foo",
+			"TK421",
+			"    $",
+			"$",
+			"#Container .mix{\n	display: none;\n}",
+			".container",
+			"container",
+			".container"
 		],
-		"highlight": true,
+		"highlight": false,
 		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
 		[
+			"'",
+			"mirocelic_logo.jpg",
+			"class=\"pic-of-me\"",
+			"pic_of_me",
+			"pic-of-me",
+			"$primary-color",
+			"containerL",
+			"containerL",
+			".containerL",
+			"fonts",
+			"fontawesome/fonts",
+			"return gulp.src",
+			"../fonts",
+			"<a href=\"portfolio.html\">portfolio</a>\n",
+			"index.html",
+			"index",
+			"",
+			"../../../fonts",
+			"/",
+			"",
+			"jPM",
 			"'../../fonts/2AC78D",
 			"letter-spacing: 1px;",
 			"style.css",
@@ -1260,7 +1154,7 @@
 			"_sliderContent"
 		],
 		"reverse": false,
-		"show_context": true,
+		"show_context": false,
 		"use_buffer2": true,
 		"whole_word": false,
 		"wrap": false
@@ -1268,1915 +1162,18 @@
 	"groups":
 	[
 		{
-<<<<<<< HEAD
-			"selected": 5,
-=======
-			"selected": 3,
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
 			"sheets":
 			[
-				{
-					"buffer": 0,
-<<<<<<< HEAD
-					"file": "app/controllers/pins_controller.rb",
-					"settings":
-					{
-						"buffer_size": 1061,
-=======
-					"file": "app/views/pins/index.html.erb",
-					"settings":
-					{
-						"buffer_size": 791,
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-<<<<<<< HEAD
-								174,
-								174
-=======
-								791,
-								791
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
-							]
-						],
-						"settings":
-						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2.0,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5.0,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10.0,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"sublime_auto_complete": true,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-<<<<<<< HEAD
-					"file": "app/controllers/pins_controller (original).rb",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/assets/javascripts/application.js",
-					"settings":
-					{
-						"buffer_size": 722,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "app/assets/stylesheets/application.css",
-					"settings":
-					{
-						"buffer_size": 702,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "app/views/pins/index.html.erb",
-					"settings":
-					{
-						"buffer_size": 556,
-=======
-					"file": "app/controllers/pins_controller.rb",
-					"settings":
-					{
-						"buffer_size": 1241,
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-<<<<<<< HEAD
-								556,
-								556
-=======
-								715,
-								715
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
-							]
-						],
-						"settings":
-						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2.0,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5.0,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10.0,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"sublime_auto_complete": true,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-<<<<<<< HEAD
-					"buffer": 5,
-					"file": "app/views/layouts/_header.html.erb",
-					"settings":
-					{
-						"buffer_size": 1535,
-=======
-					"buffer": 2,
-					"file": "app/models/user.rb",
-					"settings":
-					{
-						"buffer_size": 295,
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-<<<<<<< HEAD
-								1277,
-								1277
-=======
-								295,
-								295
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
-							]
-						],
-						"settings":
-						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2.0,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5.0,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10.0,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"sublime_auto_complete": true,
-							"synced": false,
-<<<<<<< HEAD
-							"syntax": "Packages/ERB Autocomplete/erb.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-=======
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-<<<<<<< HEAD
-					"buffer": 6,
-					"file": "app/assets/javascripts/pins.js.coffee",
-					"settings":
-					{
-						"buffer_size": 310,
-=======
-					"buffer": 3,
-					"file": "app/models/pin.rb",
-					"settings":
-					{
-						"buffer_size": 240,
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-<<<<<<< HEAD
-								310,
-								310
-=======
-								240,
-								0
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
-							]
-						],
-						"settings":
-						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2.0,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5.0,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10.0,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"sublime_auto_complete": true,
-							"synced": false,
-							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-<<<<<<< HEAD
-					"buffer": 7,
-					"file": "app/views/pins/show.html.erb",
-					"settings":
-					{
-						"buffer_size": 526,
-=======
-					"buffer": 4,
-					"file": "app/views/pins/show.html.erb",
-					"settings":
-					{
-						"buffer_size": 234,
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-<<<<<<< HEAD
-								264,
-								264
-=======
-								234,
-								234
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
-							]
-						],
-						"settings":
-						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2.0,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5.0,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10.0,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"sublime_auto_complete": true,
-							"synced": false,
-<<<<<<< HEAD
-							"syntax": "Packages/ERB Autocomplete/erb.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-=======
-							"syntax": "Packages/ERB Autocomplete/erb.tmLanguage"
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-<<<<<<< HEAD
-					"buffer": 8,
-					"file": "Gemfile",
-					"settings":
-					{
-						"buffer_size": 1067,
-=======
-					"buffer": 5,
-					"file": "app/controllers/pins_controller (original).rb",
-					"settings":
-					{
-						"buffer_size": 1233,
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-<<<<<<< HEAD
-								257,
-								257
-=======
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "app/controllers/pages_controller.rb",
-					"settings":
-					{
-						"buffer_size": 86,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "app/controllers/application_controller.rb",
-					"settings":
-					{
-						"buffer_size": 204,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "config/routes.rb",
-					"settings":
-					{
-						"buffer_size": 1701,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								131,
-								131
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
-							]
-						],
-						"settings":
-						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2.0,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5.0,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10.0,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"sublime_auto_complete": true,
-							"synced": false,
-<<<<<<< HEAD
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 11.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "app/assets/stylesheets/pins.css.scss",
-					"settings":
-					{
-						"buffer_size": 262,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								262,
-								262
-							]
-						],
-						"settings":
-						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2.0,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5.0,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10.0,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"sublime_auto_complete": true,
-							"synced": false,
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "app/models/pin.rb",
-					"settings":
-					{
-						"buffer_size": 242,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								235,
-								235
-							]
-						],
-						"settings":
-						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2.0,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5.0,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10.0,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"sublime_auto_complete": true,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "config/environments/production.rb",
-					"settings":
-					{
-						"buffer_size": 3706,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 946.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "config.ru",
-					"settings":
-					{
-						"buffer_size": 154,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "config/routes.rb",
-					"settings":
-					{
-						"buffer_size": 1701,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "app/controllers/pages_controller.rb",
-					"settings":
-					{
-						"buffer_size": 86,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 15,
-					"file": "app/models/user.rb",
-					"settings":
-					{
-						"buffer_size": 624,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								624,
-								624
-							]
-						],
-						"settings":
-						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2.0,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5.0,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10.0,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"sublime_auto_complete": true,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 16,
-					"file": "app/views/pins/_form.html.erb",
-					"settings":
-					{
-						"buffer_size": 693,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								692,
-								0
-							]
-						],
-						"settings":
-						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2.0,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5.0,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10.0,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"sublime_auto_complete": true,
-							"synced": false,
-							"syntax": "Packages/ERB Autocomplete/erb.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-=======
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "config.ru",
-					"settings":
-					{
-						"buffer_size": 154,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "config/environments/production.rb",
-					"settings":
-					{
-						"buffer_size": 3706,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3701,
-								3701
-							]
-						],
-						"settings":
-						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2.0,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5.0,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10.0,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"sublime_auto_complete": true,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 892.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 36.0
 	},
 	"input":
 	{
-		"height": 31.0
+		"height": 38.0
 	},
 	"layout":
 	{
@@ -3209,13 +1206,21 @@
 	{
 		"height": 0.0
 	},
+	"output.git":
+	{
+		"height": 102.0
+	},
+	"output.gulp_output":
+	{
+		"height": 508.0
+	},
 	"output.sftp":
 	{
-		"height": 687.0
+		"height": 454.0
 	},
 	"replace":
 	{
-		"height": 122.0
+		"height": 93.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -3224,16 +1229,16 @@
 		"selected_items":
 		[
 			[
+				"",
+				"builds/development/partials/contact.html"
+			],
+			[
 				"_layo",
 				"app/sass/partials/_layout.scss"
 			],
 			[
 				"rea",
 				"Abban-jQuery-Picture-ca37fbc/README.md"
-			],
-			[
-				"",
-				".editorconfig"
 			]
 		],
 		"width": 0.0
@@ -3254,10 +1259,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-<<<<<<< HEAD
-	"side_bar_width": 299.0,
-=======
-	"side_bar_width": 309.0,
->>>>>>> 49e78397240826ca09286aca41ce403b098c6740
+	"side_bar_width": 506.0,
 	"status_bar_visible": true
 }
