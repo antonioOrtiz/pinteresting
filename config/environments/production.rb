@@ -83,7 +83,7 @@ Rails.application.configure do
 
   # Required for heroku
   # Note to set this to your actual host
-  config.action_mailer.default_url_options = { host: 'localhost:3000' }
+  config.action_mailer.default_url_options = { host: 'ants-omr-pinteresting.herokuapp.com' }
 
   config.paperclip_defaults = {
   :storage => :s3,
